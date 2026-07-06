@@ -57,6 +57,6 @@ This project analyzes student exam performance data to uncover meaningful insigh
 * Add advanced NLP models for better query understanding
 * Support more complex multi-step analytical questions
 * Integrate with dashboards (Power BI / Tableau)
-* Deploy as a web-based conversational analytics tool
+* Deploy as a ChatBot or a web-based conversational analytics tool
 
 Note: The API key has been omitted from the source code for security reasons. After downloading the project, add your own API key before running the application.
